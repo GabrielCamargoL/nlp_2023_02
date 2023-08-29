@@ -5,3 +5,5 @@ env/
 # extensions
 
 *.pyc
+
+__pycache__
