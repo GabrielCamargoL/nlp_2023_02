@@ -1,0 +1,9 @@
+# folders
+
+env/
+
+# extensions
+
+*.pyc
+
+**/venv
