@@ -44,7 +44,7 @@ python -m spacy download pt_core_news_sm en_core_web_sm
 
 ## Executando o Projeto
 
-Você precisará encontrar o arquivo que deseja neste [Repositório no kaggle](https://www.kaggle.com/code/mariagabrielareis/pln-modelos-para-pln/notebook) e criar um arquivo .py para executar com o python ou ter um ambiente de notebook como jupyter notebook para executar o arquivo ipynb.
+Você precisará encontrar o arquivo que deseja neste [Repositório no kaggle](https://www.kaggle.com/code/mariagabrielareis/pln-modelos-para-pln/notebook) ou no proprio arquivo pln-pr-processamento.ipynb e criar um arquivo .py para executar com o python ou ter um ambiente de notebook como jupyter notebook, Google Colab ou Kaggle para executar o arquivo ipynb.
 
 Exemplo para .py:
 
