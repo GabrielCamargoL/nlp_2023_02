@@ -2,9 +2,9 @@
 
 ## Implementação do Word2Vec
 
-Gabriel Camargo Leite
-João Marcos de Oliveira
-Thiago Henrique Ferreira
+Gabriel Camargo Leite<br>
+João Marcos de Oliveira<br>
+Thiago Henrique Ferreira<br>
 
 ## Configuração do Ambiente
 
