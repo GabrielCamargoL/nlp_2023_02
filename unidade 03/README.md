@@ -1,7 +1,5 @@
 # Processamento de Linguagem Natural - Unidade 03
 
-Descrição concisa do projeto.
-
 ## Configuração do Ambiente
 
 Certifique-se de ter o Python instalado em sua máquina. Recomenda-se o uso de um ambiente virtual para isolar as dependências do projeto. Use o seguinte comando para criar um ambiente virtual:
